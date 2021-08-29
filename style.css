@@ -1,0 +1,17 @@
+.styleMain{
+  
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 57%, rgba(2,67,228,1) 100%, rgba(0,138,255,1) 100%);
+color: cornsilk;
+
+
+}
+
+.img{
+    border: solid 1px;
+    background-color: black;
+    box-sizing: border-box;
+    border-radius: 30px;
+    
+    width: 12rem;
+}
